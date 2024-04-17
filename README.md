@@ -1,4 +1,4 @@
-# quiz_version_2
+# Flutter Quiz_App
 
 A new Flutter project.
 
